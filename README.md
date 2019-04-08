@@ -1,5 +1,5 @@
 # Parking_lot
-Xây dựng mô hình quản lý bãi đỗ xe ứng dụng xử lý ảnh
+##Xây dựng mô hình quản lý bãi đỗ xe ứng dụng xử lý ảnh
 
 Một mô hình quản lý bãi đỗ xe ứng dụng xử lý ảnh. 
 Mô hình hệ thống bao gồm: máy tính - xử lý hình ảnh lấy từ camera quan sát bãi đỗ xe được kết nối trong mạng cục bộ và hiển thị hình ảnh đã xử lý thông qua giao diện chương trình được xây dựng bằng ngôn ngữ python. 
